@@ -1,0 +1,1 @@
+import{p as e,b as t}from"./p-b09359c4.js";e().then(e=>t([["p-dwbflmws",[[1,"deckgo-slide-lambda-title",{backgroundType:[513,"background-type"],beforeSwipe:[64],afterSwipe:[64],lazyLoadContent:[64],revealContent:[64],hideContent:[64]}]]]],e));

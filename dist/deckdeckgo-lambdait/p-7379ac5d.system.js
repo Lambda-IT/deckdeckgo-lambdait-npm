@@ -1,0 +1,1 @@
+System.register(["./p-d9999773.system.js"],(function(){"use strict";var e,t;return{setters:[function(n){e=n.p;t=n.b}],execute:function(){e().then((function(e){return t([["p-1huekfdn.system",[[1,"deckgo-slide-lambda-title",{backgroundType:[513,"background-type"],beforeSwipe:[64],afterSwipe:[64],lazyLoadContent:[64],revealContent:[64],hideContent:[64]}]]]],e)}))}}}));

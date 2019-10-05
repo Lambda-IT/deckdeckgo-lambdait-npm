@@ -1,0 +1,12 @@
+{
+  "entries": [
+    "components\\slide-lambda-title\\slide-lambda-title.js"
+  ],
+  "compiler": {
+    "name": "@stencil/core",
+    "version": "1.5.3",
+    "typescriptVersion": "3.6.3"
+  },
+  "collections": [],
+  "bundles": []
+}
